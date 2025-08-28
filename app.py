@@ -1,5 +1,5 @@
 import streamlit as st
-from PIT import image
+from PIL import image
 
 st.title( "Te amo mi negra favorita")
 
